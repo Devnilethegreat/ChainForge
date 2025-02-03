@@ -52,3 +52,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Recent updates
 
 - **2024-06-30** — Expand test coverage for edge cases
+- **2025-02-03** — Expand test coverage for edge cases
